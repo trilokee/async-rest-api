@@ -1,7 +1,7 @@
 # Read Me First
 The following was discovered as part of building this project:
 
-* The original package name 'com.trilokee.async-rest-api' is invalid and this project uses 'com.trilokee.asyncrestapi' instead.
+* The original package name 'com.trilokee.movies-service' is invalid and this project uses 'com.trilokee.moviesservice' instead.
 
 # Getting Started
 
